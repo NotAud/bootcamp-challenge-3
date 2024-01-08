@@ -14,7 +14,7 @@ The password can optionally contain lowercase, uppercase, numeric, and/or specia
 
 ## Deployed Page
 
-[Live Deployment](https://notaud.github.io/bootcamp-challenge-2/)
+[Live Deployment](https://notaud.github.io/bootcamp-challenge-3/)
 
 ![Example Image of Page](https://imgur.com/EBtuhIW.png)
 
